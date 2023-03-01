@@ -5,6 +5,7 @@
   "description": "A tool to learn OWASP Top 10 for node.js developers",
   "main": "server.js",
   "dependencies": {
+    "@mend-eicar/hello-world": "1.0.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
@@ -20,8 +21,8 @@
     "node-esapi": "0.0.1",
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
-    "underscore": "^1.8.3",
-    "@mend-eicar/hello-world": "1.0.0"
+    "ua-parser-js": "0.7.29",
+    "underscore": "^1.8.3"
   },
   "comments": {
     "//": "a9 insecure components"
